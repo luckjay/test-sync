@@ -1,0 +1,11 @@
+_id: env_7aea74b80db648f495f6316a898963a3
+type: Environment
+parentId: env_6c54434a663d481bee018675eb32edbefd4dbc8f
+modified: 1710386007352
+created: 1710385996912
+name: cloud envs
+data: {}
+dataPropertyOrder: null
+color: null
+isPrivate: false
+metaSortKey: 1710385996912
